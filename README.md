@@ -1,7 +1,7 @@
 <h1>🌴 Bem Vindxs! </h1>
 
 <h2>⚙️ Use o Yarn para rodar Api-Local</h2>
-<h3>🐥 projeto Adopt abra aqui o <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-KenzieAdot"> REPOSITÓRIO </a>
+<h3>🐥 projeto GuitarGlass abra aqui o <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-Guitar-Glass"> REPOSITÓRIO </a>
 
 ##
 
