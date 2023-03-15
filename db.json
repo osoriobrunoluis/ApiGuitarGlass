@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "email": "document.adm@mail.com",
+      "password": "$2a$10$82I49yJ7zhyVIP9tLyzlJ.jN6t5cfqwfDHb/6yrCR410QHyZVk8dy",
+      "name": "ADM",
+      "id": 1,
+      "isAdm": true,
+      "address": "Teste de Edição"
+    },
+    {
+      "email": "document.varela@mail.com",
+      "password": "$2a$10$82I49yJ7zhyVIP9tLyzlJ.jN6t5cfqwfDHb/6yrCR410QHyZVk8dy",
+      "name": "Krishna",
+      "address": "Teste de edição",
+      "isAdm": false,
+      "id": 2
+    }
+    
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Guitarra Eletrica Fender",
+      "brand": "fender",
+      "category": "Guitarra",
+      "img": "URL",
+      "value": 8722
+    }
+  ]
+}
